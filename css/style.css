@@ -221,6 +221,7 @@ a {
   margin-top: 10rem !important; }
 
 .vertical-txt {
+  color:#f6f5ee;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
