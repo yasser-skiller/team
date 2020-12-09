@@ -45,6 +45,44 @@
   .sp_header .Main_title p {
     color: #fff; }
 
+.Respon {
+  min-width: 993px; }
+
+.bg-card-1 {
+  background-color: #cd9377; }
+
+.bg-card-2 {
+  background-color: #373331; }
+
+.bg-card-3 {
+  background-color: #f6f6f6; }
+
+.btn-brown {
+  background-color: #95552d; }
+  .btn-brown:hover {
+    background-color: #7c4524; }
+
+.color-black {
+  color: #1f1f1f; }
+
+.color-wh {
+  color: #fff; }
+  .color-wh:hover {
+    color: #fff; }
+
+.color-brown {
+  color: #95552d; }
+
+.font {
+  font-size: 22px;
+  font-weight: 700; }
+
+.font2 {
+  font-size: 22px;
+  font-weight: 600; }
+  .font2:hover {
+    color: #95552d; }
+
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -57,7 +95,8 @@ html {
 body {
   font-family: "cairo", sans-serif;
   overflow-x: hidden !important;
-  background-color: #f6f5ee !important; }
+  background-color: #f6f5ee !important;
+  color: #fff !important; }
 
 .rlt {
   direction: rtl !important; }
@@ -68,14 +107,11 @@ body {
 .float-right {
   float: right !important; }
 
-.bg-white {
-  background-color: #fff !important; }
-
 ul, ol {
   padding: 0; }
 
 a {
-  text-decoration: none; }
+  text-decoration: none !important; }
 
 .header {
   display: -webkit-box;
@@ -136,7 +172,8 @@ html {
 body {
   font-family: "cairo", sans-serif;
   overflow-x: hidden !important;
-  background-color: #f6f5ee !important; }
+  background-color: #f6f5ee !important;
+  color: #fff !important; }
 
 .rlt {
   direction: rtl !important; }
@@ -147,14 +184,11 @@ body {
 .float-right {
   float: right !important; }
 
-.bg-white {
-  background-color: #fff !important; }
-
 ul, ol {
   padding: 0; }
 
 a {
-  text-decoration: none; }
+  text-decoration: none !important; }
 
 
 .header {
@@ -221,7 +255,6 @@ a {
   margin-top: 10rem !important; }
 
 .vertical-txt {
-  color:#f6f5ee;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -233,7 +266,7 @@ a {
           writing-mode: vertical-rl;
   -webkit-text-orientation: mixed;
           text-orientation: mixed;
-  color: #b89467; }
+  color: #f6f5ee; }
 
 .sec-tit {
   color: #bd4b1f;
@@ -292,7 +325,8 @@ html {
 body {
   font-family: "cairo", sans-serif;
   overflow-x: hidden !important;
-  background-color: #f6f5ee !important; }
+  background-color: #f6f5ee !important;
+  color: #fff !important; }
 
 .rlt {
   direction: rtl !important; }
@@ -303,11 +337,8 @@ body {
 .float-right {
   float: right !important; }
 
-.bg-white {
-  background-color: #fff !important; }
-
 ul, ol {
   padding: 0; }
 
 a {
-  text-decoration: none; }
+  text-decoration: none !important; }
