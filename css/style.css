@@ -46,16 +46,16 @@
     color: #fff; }
 
 .Respon {
-  min-width: 993px; }
+  min-width: 993px !important; }
 
 .bg-card-1 {
-  background-color: #cd9377; }
+  background-color: #82bec3; }
 
 .bg-card-2 {
-  background-color: #373331; }
+  background-color: #d6a259; }
 
 .bg-card-3 {
-  background-color: #f6f6f6; }
+  background-color: #be4b1f; }
 
 .btn-brown {
   background-color: #95552d; }
@@ -82,6 +82,10 @@
   font-weight: 600; }
   .font2:hover {
     color: #95552d; }
+
+.pro-img {
+  width: 150px;
+  height: 270px; }
 
 * {
   -webkit-box-sizing: border-box;
